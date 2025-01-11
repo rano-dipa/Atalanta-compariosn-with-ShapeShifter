@@ -1,4 +1,4 @@
-# Team_30_Atalanta
+# Atalanta
 'Atalanta' vs 'ShapeShifter'- hardware compression for quantized DL models to improve off-die memory access
 
 # Project Description
